@@ -1,4 +1,4 @@
-# Paython
+# Python
 learn python from basic to advanced
 
 # Notes
